@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.simonis.logdemo</groupId>
+  <artifactId>Log4J2Demo</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200418171514</lastUpdated>
+  </versioning>
+</metadata>

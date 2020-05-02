@@ -1,0 +1,35 @@
+2020-04-18 13:30:35.987  INFO system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : Starting Log4J2DemoApplication on system2.localdomain with PID 31464 (started by wayne in /home/wayne/IdeaProjects/Section 2)
+2020-04-18 13:30:35.989 DEBUG system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2020-04-18 13:30:35.991  INFO system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : No active profile set, falling back to default profiles: default
+2020-04-18 13:30:42.760  INFO system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : Started Log4J2DemoApplication in 7.998 seconds (JVM running for 9.712)
+2020-04-18 13:31:13.006  WARN system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is a warning!
+2020-04-18 13:31:13.006  INFO system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is an info
+2020-04-18 13:31:13.006 DEBUG system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is a debug
+2020-04-18 13:31:13.006 ERROR system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : We have an error!
+2020-04-18 13:31:13.007 FATAL system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : This is absolutely FATAL!
+2020-04-18 13:31:13.007  DIAG system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is a custom diagnose
+2020-04-18 13:31:13.007 VERBOSE system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is a custom verbose
+2020-04-18 13:31:13.007  DIAG system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is an extended diagnose
+2020-04-18 13:31:13.008 VERBOSE system2.localdomain --- [nio-8080-exec-2] c.s.l.HelloWorldController               : this is an extended verbose
+2020-04-18 13:57:21.123  WARN system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is a warning!
+2020-04-18 13:57:21.123  INFO system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is an info
+2020-04-18 13:57:21.123 DEBUG system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is a debug
+2020-04-18 13:57:21.123 ERROR system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : We have an error!
+2020-04-18 13:57:21.123 FATAL system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : This is absolutely FATAL!
+2020-04-18 13:57:21.123  DIAG system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is a custom diagnose
+2020-04-18 13:57:21.123 VERBOSE system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is a custom verbose
+2020-04-18 13:57:21.123  DIAG system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is an extended diagnose
+2020-04-18 13:57:21.123 VERBOSE system2.localdomain --- [nio-8080-exec-7] c.s.l.HelloWorldController               : this is an extended verbose
+2020-05-01 21:11:36.806  INFO system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : Starting Log4J2DemoApplication on system2.localdomain with PID 25626 (started by wayne in /home/wayne/IdeaProjects/Section 2)
+2020-05-01 21:11:36.810 DEBUG system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2020-05-01 21:11:36.813  INFO system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : No active profile set, falling back to default profiles: default
+2020-05-01 21:11:43.172  INFO system2.localdomain --- [  restartedMain] c.s.l.Log4J2DemoApplication              : Started Log4J2DemoApplication in 7.414 seconds (JVM running for 8.889)
+2020-05-01 21:12:36.276  WARN system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is a warning!
+2020-05-01 21:12:36.276  INFO system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is an info
+2020-05-01 21:12:36.276 DEBUG system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is a debug
+2020-05-01 21:12:36.276 ERROR system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : We have an error!
+2020-05-01 21:12:36.277 FATAL system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : This is absolutely FATAL!
+2020-05-01 21:12:36.277  DIAG system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is a custom diagnose
+2020-05-01 21:12:36.277 VERBOSE system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is a custom verbose
+2020-05-01 21:12:36.277  DIAG system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is an extended diagnose
+2020-05-01 21:12:36.277 VERBOSE system2.localdomain --- [nio-8080-exec-1] c.s.l.HelloWorldController               : this is an extended verbose

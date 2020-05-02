@@ -1,0 +1,14 @@
+2020-04-18 13:30:39.862  INFO system2.localdomain --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-04-18 13:30:39.896  INFO system2.localdomain --- [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-04-18 13:30:39.897  INFO system2.localdomain --- [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2020-04-18 13:30:39.922  INFO system2.localdomain --- [  restartedMain] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/home/wayne/Downloads/idea-IU-163.7743.44/bin::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+2020-04-18 13:30:40.098  INFO system2.localdomain --- [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2020-04-18 13:30:42.705  INFO system2.localdomain --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-04-18 13:31:12.896  INFO system2.localdomain --- [nio-8080-exec-2] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-01 21:11:40.266  INFO system2.localdomain --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-01 21:11:40.299  INFO system2.localdomain --- [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-05-01 21:11:40.299  INFO system2.localdomain --- [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.14]
+2020-05-01 21:11:40.320  INFO system2.localdomain --- [  restartedMain] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/home/wayne/Downloads/idea-IU-163.7743.44/bin:/home/wayne/Downloads/idea-IU-163.7743.44/bin:/home/wayne/Downloads/idea-IU-163.7743.44/bin::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+2020-05-01 21:11:40.535  INFO system2.localdomain --- [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2020-05-01 21:11:43.125  INFO system2.localdomain --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-05-01 21:12:36.177  INFO system2.localdomain --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
